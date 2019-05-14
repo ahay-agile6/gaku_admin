@@ -1,6 +1,6 @@
 # encoding: UTF-8
 
-require_relative '../common_gaku_gemspec_mixin'
+require_relative 'common_gaku_gemspec_mixin'
 
 Gem::Specification.new do |s|
   set_gaku_gemspec_shared s
